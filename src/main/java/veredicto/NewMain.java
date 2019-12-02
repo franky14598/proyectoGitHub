@@ -19,7 +19,7 @@ public class NewMain {
         System.out.println("La calificación de Francisco Aledo: ");
         
         
-        String static veredicto(String valor1, String valor2) {
+       private String static veredicto(String valor1, String valor2) {
 
 
 
